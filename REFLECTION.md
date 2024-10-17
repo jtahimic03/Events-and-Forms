@@ -1,0 +1,4 @@
+1.the code is supposed to validate the form of the "photohoot event" by checking if each box are filled out correctly. the javascript manages the form submission, display error messages, and provides visual feedback depending on the users inputs.
+2.make sure my code was indented properly since i knew i would come back to makemore changes to enhance readabilty. looked for more resources outside the notes.
+3.Challenge was problably learning how to properly use the consol and find where errors were occuring and identifing what caused them in my code
+4.use consol logs whereever i can knowing it will probaly cause an error isntead of randoly adding them when im near the end of the coding process
