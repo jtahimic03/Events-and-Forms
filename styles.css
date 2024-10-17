@@ -24,8 +24,8 @@ body {
 }
 
 div {
-    text-align: center; /* Centers the text */
-    font-weight: bold;  /* Makes the text bold */
+    text-align: center; 
+    font-weight: bold;  
 }
 
 h1 {
@@ -39,15 +39,15 @@ label, input, select, button {
     margin-bottom: 10px;
 }
 
-.input-control input:focus {
+.input-control input:focus {/*adds a small outline*/
     outline: 0;
 }
 
-.input-control.success input {
+.input-control.success input {/*if input is valid the border will turn green*/
     border-color: lightgreen;
 }
 
-.input-control.error input {
+.input-control.error input {/*if invalid input the border will turn red*/
     border-color: red;
 }
 
